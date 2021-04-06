@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notatki</string>
+
+    <string name="btn_save">Zapisz</string>
+    <string name="btn_read">Czytaj</string>
+
+    <string name="hint_save">Nazwa pliku</string>
+    <string name="hint_note">Tu wpisz notatkę</string>
+
+    <string name="auto_fill_empty"></string>
+</resources>
